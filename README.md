@@ -5,29 +5,26 @@
   e.g. github.com/yourusername/yourusername
 -->
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hey, It's me Debayan Bandyopadhyay</h1>
 
 <p align="center">
-  <em>[A one-line tagline about what you do, e.g. "Backend engineer building fast, reliable APIs"]</em>
+  <em>Master of Science in Data Science @IIIT Lucknow</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/debayan-bandyopadhyay-734b66247"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="debayanbandyopadhyay3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **[project name]**
-- 🌱 I'm currently learning **[technology/skill]**
-- 👯 I'm looking to collaborate on **[type of project]**
-- 💬 Ask me about **[your expertise areas]**
-- 📫 How to reach me: **[email or preferred contact method]**
-- ⚡ Fun fact: **[something fun about you]**
+- 🔭 I'm currently working on **End to end projects**
+- 🌱 I'm currently learning **Langchain, Langgraph, LLM Evaluation, Agentic AI, RAG etc.**
+- 👯 I'm looking to collaborate on **Agentic AI projects**
+- 📫 How to reach me: **debayanbandyopadhyay3@gmail.com**
 
 ---
 
