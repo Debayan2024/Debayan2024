@@ -1,16 +1,15 @@
 <!--
   GITHUB PROFILE README — BATMAN EDITION
   Repo must be named exactly: Debayan2024/Debayan2024
-  (you already have this repo — just replace its README.md with this file)
 -->
 
 <div align="center">
 
 <img src="https://em-content.zobj.net/source/microsoft-teams/363/bat_1f987.png" width="70" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=800&size=38&duration=1&pause=100000&repeat=false&color=FFD700&background=00000000&center=true&vCenter=true&width=700&height=60&lines=AI+%26+DATA+SCIENCE" alt="AI & Data Science" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&weight=700&size=38&duration=1&pause=100000&repeat=false&color=FFD700&background=00000000&center=true&vCenter=true&width=700&height=60&lines=AI+%26+DATA+SCIENCE" alt="AI & Data Science" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Debayan+Bandyopadhyay;MSc+Data+Science+%40+IIIT+Lucknow;Data+Science+%2F+ML+%2F+DL+%2F+NLP+%2F+CV;RAG+%2B+Agentic+AI+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&width=800&lines=Debayan+Bandyopadhyay;MSc+Data+Science+%40+IIIT+Lucknow;Data+Science+%2F+ML+%2F+DL+%2F+NLP+%2F+CV;RAG+%2B+Agentic+AI+Builder" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +17,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-online-FFD700?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/location-Gotham%20%2F%20Lucknow-FFD700?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/location-Lucknow-FFD700?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="center">
@@ -35,16 +34,16 @@
 
 ---
 
-### 🦇 The Signal
+### 🦇 The Signal | Professional Overview
 
-- 🔭 Working on **end-to-end ML / DS / RAG / agentic AI projects**
-- 🌱 Sharpening skills in **Python, SQL, R, ML, DL, Transformer, NLP, CV, Gen AI, LangChain, LangGraph, LLM Evaluation, Agentic AI, RAG**
-- 👯 Open to collaborating on **AI & Data Science projects**
-- 📫 Reach the Batcave: **debayanbandyopadhyay3@gmail.com**
+> - 🔭 **Current Focus:** Building end-to-end ML, Data Science, RAG, and Agentic AI architectures.
+> - 🌱 **Core Competencies:** Python, SQL, R, ML, DL, Transformers, NLP, CV, Gen AI, LangChain, LangGraph, LLM Evaluation.
+> - 👯 **Collaboration:** Open to contributing to complex AI & Data Science repositories.
+> - 📫 **Direct Contact:** debayanbandyopadhyay3@gmail.com
 
 ---
 
-### 🥋 Battle Records (competitive & practice profiles)
+### 🥋 Battle Records | Coding Platforms
 
 <p align="center">
   <a href="https://leetcode.com/u/Atom_11/">
@@ -74,28 +73,29 @@
 
 ---
 
-### 🛠️ The Utility Belt
+### 🛠️ The Utility Belt | Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=FFD700" />
-</p>
+> <p align="left">
+>   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700" />
+>   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFD700" />
+>   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD700" />
+>   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFD700" />
+>   <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FFD700" />
+>   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFD700" />
+>   <br><br>
+>   <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=FFD700" />
+>   <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FFD700" />
+>   <img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=FFD700" />
+>   <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFD700" />
+>   <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FFD700" />
+>   <br><br>
+>   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=FFD700" />
+>   <img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=FFD700" />
+> </p>
 
 ---
 
-### 📊 Live Batcomputer Stats
-<sub>These update automatically every time this page loads — nothing to touch.</sub>
+### 📊 Batcomputer Stats | GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Debayan2024&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E8E8E8&icon_color=FFD700&border_color=FFD700" height="165" />
@@ -112,8 +112,7 @@
 
 ---
 
-### 📌 Featured Cases (auto-pulled from real repos)
-<sub>Live pin cards — always reflect your current repo stats, no manual updates needed.</sub>
+### 📌 Featured Cases | Repository Highlights
 
 <table>
   <tr>
@@ -154,11 +153,9 @@
   </tr>
 </table>
 
-> 💡 To feature a different case file, swap the `repo=` value in any card above for any repo name from your account — the card fetches its own live data.
-
 ---
 
-### 📈 Nightly Patrol (contribution graph)
+### 📈 Nightly Patrol | Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debayan2024&bg_color=0D1117&color=FFD700&line=FFD700&point=E8E8E8&area=true&hide_border=true" alt="Contribution Graph" />
