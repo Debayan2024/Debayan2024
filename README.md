@@ -128,32 +128,23 @@ Contact Me:
 
 ### 🧰 Tools & Platforms
 
-<p align="center">
-
-  <a href="#"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="58" height="58" alt="Jupyter" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=googlecolab&theme=dark" width="58" height="58" alt="Google Colab" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=kaggle&theme=dark" width="58" height="58" alt="Kaggle" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=r&theme=dark" width="58" height="58" alt="RStudio" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=excel&theme=dark" width="58" height="58" alt="Microsoft Excel" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" width="58" height="58" alt="Google Sheets" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=powerbi&theme=dark" width="58" height="58" alt="Power BI" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=canva&theme=dark" width="58" height="58" alt="Canva" /></a>
-
-  <br/>
-
-  <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="58" height="58" alt="GitHub" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="58" height="58" alt="Git" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="58" height="58" alt="VS Code" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="58" height="58" alt="Docker" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="58" height="58" alt="MySQL" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="58" height="58" alt="Anaconda" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="58" height="58" alt="Python" /></a>
-
-</p>
-
-</p>
-
-<br/>
+<img src="https://cdn.simpleicons.org/jupyter/FFD700" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/googlecolab/FFD700" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/kaggle/FFD700" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/rstudio/FFD700" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/microsoftexcel/FFD700" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/googlesheets/FFD700" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/microsoftpowerpoint/FFD700" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/powerbi/FFD700" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/canva/FFD700" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/huggingface/FFD700" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/openai/FFD700" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/git/FFD700" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/github/FFD700" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/visualstudiocode/FFD700" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/docker/FFD700" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/mysql/FFD700" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/anaconda/FFD700" width="48" height="48" />
 
 ### ☁️ Data, Cloud & Infrastructure
 
