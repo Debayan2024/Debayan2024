@@ -32,6 +32,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDebayan2024&label=Repositories&query=%24.public_repos&color=FFD700&style=for-the-badge&labelColor=000000" alt="Repositories" />
+  &nbsp;
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/debayan-bandyopadhyay-734b66247/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
   </a>
@@ -56,28 +61,32 @@ Education:
 
 Professional Experience:
   - Title: Data Science Intern
-  - Employer : Climate Reselience Observatory
+  - Employer : Climate Resilience Observatory
   - Location : Lucknow, India (On-Site)
   - From : 1st Sept, 2025
   - Till : 30th June, 2026
   - Contribution : Built an End to End Heatwave Forecasting System
 
 Area of Skills:
-  - Machine Learning & Deep Learning
-  - Large Language Models (LLMs)
-  - Generative AI Systems
+  - Programming Languages : R, C, Python, SQL
+  - Tools : IBM SPSS, R-Cran, R-Studio, MySQL, Anaconda/Jupyter Notebook, Google Colab, Kaggle Environment, VS Code, Git/Github
+  - Data Preprocessing, EDA, Data Cleaning, Feature Engineering, PCA
+  - Statistical Methods: A/B Testing, Hypothesis Testing, Confidence Intervals, Time Series Forecasting, Statistical Analysis
+  - Machine Learning: Regression, Classification, Clustering, Model Building, Model Evaluation & Experimentation
+  - Deep Learning: Neural Networks, CNN, RNN/LSTM, Transformers
   - NLP & Computer Vision
-  - Data Science & Analytics
-  - Data Structures & Algorithms
+  - Generative AI, RAG, Agentic AI, Prompt Engineering, Vector Embeddings, LLM API Integration
+  - Large Language Models (LLMs), LLM Evals
+  - Data Structures & Algorithms with Python : Basic Maths, Arrays, Strings
+  - Presentation : Canva, Microsoft Power Point
 
 Currently Building:
   - End to End Machine Learning Systems
-  - 
   - RAG-powered applications
   - Agentic AI workflows
   - LLM-powered applications
 
-open To:
+Open For:
   - Contributing to Complex AI & Data Science Repositories
 
 Contact Me:
@@ -86,12 +95,12 @@ Contact Me:
 
 ---
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=55&text=🦇%20THE%20SIGNAL%20%7C%20PROFESSIONAL%20OVERVIEW&fontSize=21&fontColor=FFD700&fontFamily=Courier%20New&fontAlignY=55" width="100%"/> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=55&text=🦇%20ACHIEVEMENTS%20%7C%20CERTIFICATIONS%20%7C%20EXTRA%20CURRICULAR&fontSize=21&fontColor=FFD700&fontFamily=Courier%20New&fontAlignY=55" width="100%"/> </p>
 
-> * 🔭 **Current Focus:** Building end-to-end ML, Data Science, RAG, and Agentic AI architectures.
-> * 🌱 **Core Competencies:** Python, SQL, R, ML, DL, Transformers, NLP, CV, GenAI, LangChain, LangGraph, LLM Evaluation.
-> * 👯 **Collaboration:** Open to contributing to complex AI & Data Science repositories.
-> * 📫 **Direct Contact:** [debayanbandyopadhyay3@gmail.com](mailto:debayanbandyopadhyay3@gmail.com)
+> * 🏅 **Kaggle Dataset Expert:** 4 Silver Medals, 1 Bronze Medal, Highest Ever Rank: #212 in Datasets
+> * 🔬 **Research Assistant:** Working on a thesis related to AI & Climate Modeling
+> * 🎯 **Aether Club Coordinator:** Spearheaded a Climate Tech Hackathon for 40+ teams
+> * 🎓 **Teaching Assistant:** Conducted & Evaluated 250+ Students in Machine Learning & Mathematics under HOD, Dept. of Mathematics, IIIT Lucknow
 
 ---
 
@@ -250,7 +259,6 @@ Structured **LeetCode, GeeksforGeeks, HackerRank and Deep-ML solutions** coverin
 <table>
   <tr>
 
-```
 <td width="50%">
   <a href="https://github.com/Debayan2024/safeplate-hybrid-rag">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debayan2024&repo=safeplate-hybrid-rag&bg_color=0D1117&title_color=FFD700&text_color=E8E8E8&icon_color=FFD700&border_color=FFD700" />
@@ -262,13 +270,11 @@ Structured **LeetCode, GeeksforGeeks, HackerRank and Deep-ML solutions** coverin
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debayan2024&repo=shelfsense-agentic-replenishment&bg_color=0D1117&title_color=FFD700&text_color=E8E8E8&icon_color=FFD700&border_color=FFD700" />
   </a>
 </td>
-```
 
   </tr>
 
   <tr>
 
-```
 <td width="50%">
   <a href="https://github.com/Debayan2024/Eurosat-Landuse-CV">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debayan2024&repo=Eurosat-Landuse-CV&bg_color=0D1117&title_color=FFD700&text_color=E8E8E8&icon_color=FFD700&border_color=FFD700" />
@@ -280,13 +286,11 @@ Structured **LeetCode, GeeksforGeeks, HackerRank and Deep-ML solutions** coverin
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debayan2024&repo=EO-SAR-Paired-Annotation-QC&bg_color=0D1117&title_color=FFD700&text_color=E8E8E8&icon_color=FFD700&border_color=FFD700" />
   </a>
 </td>
-```
 
   </tr>
 
   <tr>
 
-```
 <td width="50%">
   <a href="https://github.com/Debayan2024/end_to_end_AI_agent_with_langchain">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debayan2024&repo=end_to_end_AI_agent_with_langchain&bg_color=0D1117&title_color=FFD700&text_color=E8E8E8&icon_color=FFD700&border_color=FFD700" />
@@ -298,7 +302,6 @@ Structured **LeetCode, GeeksforGeeks, HackerRank and Deep-ML solutions** coverin
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debayan2024&repo=youtube_rag_chatbot&bg_color=0D1117&title_color=FFD700&text_color=E8E8E8&icon_color=FFD700&border_color=FFD700" />
   </a>
 </td>
-```
 
   </tr>
 </table>
