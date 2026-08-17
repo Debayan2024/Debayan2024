@@ -32,20 +32,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDebayan2024&label=Repositories&query=%24.public_repos&color=FFD700&style=for-the-badge&labelColor=000000" alt="Repositories" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDebayan2024&label=Public+Repositories&query=%24.public_repos&color=FFD700&style=for-the-badge&labelColor=000000" alt="Repositories" />
   &nbsp;
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/debayan-bandyopadhyay-734b66247/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
-  </a>
-  <a href="mailto:debayanbandyopadhyay3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD700" />
-  </a>
-  <a href="https://github.com/Debayan2024">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
-  </a>
 </p>
 
 ---
@@ -68,7 +56,6 @@ Professional Experience:
   - Contribution : Built an End to End Heatwave Forecasting System
 
 Area of Skills:
-  - Programming Languages : R, C, Python, SQL
   - Tools : IBM SPSS, R-Cran, R-Studio, MySQL, Anaconda/Jupyter Notebook, Google Colab, Kaggle Environment, VS Code, Git/Github
   - Data Preprocessing, EDA, Data Cleaning, Feature Engineering, PCA
   - Statistical Methods: A/B Testing, Hypothesis Testing, Confidence Intervals, Time Series Forecasting, Statistical Analysis
@@ -94,14 +81,12 @@ Contact Me:
 ```
 
 ---
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=55&text=🦇%20ACHIEVEMENTS%20%7C%20CERTIFICATIONS%20%7C%20EXTRA%20CURRICULAR&fontSize=21&fontColor=FFD700&fontFamily=Courier%20New&fontAlignY=55" width="100%"/> </p>
 
-> * 🏅 **Kaggle Dataset Expert:** 4 Silver Medals, 1 Bronze Medal, Highest Ever Rank: #212 in Datasets
-> * 🔬 **Research Assistant:** Working on a thesis related to AI & Climate Modeling
-> * 🎯 **Aether Club Coordinator:** Spearheaded a Climate Tech Hackathon for 40+ teams
-> * 🎓 **Teaching Assistant:** Conducted & Evaluated 250+ Students in Machine Learning & Mathematics under HOD, Dept. of Mathematics, IIIT Lucknow
-
+* 🏅 **Kaggle Dataset Expert:** 4 Silver Medals, 1 Bronze Medal, Highest Ever Rank: #212 in Datasets
+* 🔬 **Research Assistant:** Working on a thesis related to AI & Climate Modeling
+* 🎯 **Aether Club Coordinator:** Spearheaded a Climate Tech Hackathon for 40+ teams
+* 🎓 **Teaching Assistant:** Conducted & Evaluated 250+ Students in Machine Learning & Mathematics under HOD, Dept. of Mathematics, IIIT Lucknow
 ---
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=55&text=🛠️%20THE%20UTILITY%20BELT%20%7C%20TECH%20STACK&fontSize=21&fontColor=FFD700&fontFamily=Courier%20New&fontAlignY=55" width="100%"/> </p>
@@ -110,43 +95,65 @@ Contact Me:
 
 ### 💬 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,r,c,mysql&theme=dark" />
 
-<br/><br/>
+<br/>
 
-### 🤖 ML / AI Frameworks
+### 🤖 Frameworks
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-
-<br/><br/>
-
-### 📊 Data Science
-
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=FFD700" />
-
-<br/><br/>
-
-### 🧬 Generative AI
-
-<img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=FFD700" />
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=FFD700" />
 <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/RAG_Architecture-000000?style=for-the-badge&logo=databricks&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=langchain&logoColor=FFD700" />
 
-<br/><br/>
+<br/>
+
+### 📊 Libraries
+
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Prophet-000000?style=for-the-badge&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=FFD700" />
+
+<br/>
 
 ### 🧰 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter,linux&theme=dark" />
+<p align="center">
 
-<br/><br/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="58" height="58" alt="Jupyter" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=googlecolab&theme=dark" width="58" height="58" alt="Google Colab" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=kaggle&theme=dark" width="58" height="58" alt="Kaggle" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=r&theme=dark" width="58" height="58" alt="RStudio" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=excel&theme=dark" width="58" height="58" alt="Microsoft Excel" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" width="58" height="58" alt="Google Sheets" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=powerbi&theme=dark" width="58" height="58" alt="Power BI" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=canva&theme=dark" width="58" height="58" alt="Canva" /></a>
+
+  <br/>
+
+  <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="58" height="58" alt="GitHub" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="58" height="58" alt="Git" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="58" height="58" alt="VS Code" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="58" height="58" alt="Docker" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="58" height="58" alt="MySQL" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="58" height="58" alt="Anaconda" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="58" height="58" alt="Python" /></a>
+
+</p>
+
+</p>
+
+<br/>
 
 ### ☁️ Data, Cloud & Infrastructure
 
@@ -320,7 +327,7 @@ Structured **LeetCode, GeeksforGeeks, HackerRank and Deep-ML solutions** coverin
 
 ---
 
-### 🔥 GitHub Streak
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=55&text=🔥%20GITHUB%20STREAK&fontSize=25&fontColor=FFD700&fontFamily=Courier%20New&fontAlignY=55" width="100%"/> </p>
 
 <p align="center">
 
@@ -350,13 +357,27 @@ Structured **LeetCode, GeeksforGeeks, HackerRank and Deep-ML solutions** coverin
 
 ---
 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=55&text=🔍%20FIND%20ME%20ONLINE&fontSize=25&fontColor=FFD700&fontFamily=Courier%20New&fontAlignY=55" width="100%"/> </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/debayan-bandyopadhyay-734b66247/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
+  </a>
+  <a href="mailto:debayanbandyopadhyay3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD700" />
+  </a>
+  <a href="https://github.com/Debayan2024">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
+  </a>
+</p>
+
+---
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 💬 QUOTE + FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<hr/>
 
 <br/>
 
